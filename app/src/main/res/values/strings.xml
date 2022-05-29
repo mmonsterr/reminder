@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ReMinder</string>
+    <string name="Heading1">TITLE</string>
+    <string name="Heading2">DESCRIPTION</string>
+    <string name="Heading3">PRIORITY</string>
+    <string name="High">high</string>
+    <string name="Mid">middle</string>
+    <string name="Low">low</string>
+    <string name="hint1">Please enter a title</string>
+    <string name="hint2">Please enter some description</string>
+    <string name="channel_name">Reminder</string>
+    <string name="channel_description">App Reminder and Alarm Notificaions</string>
+</resources>
